@@ -1,0 +1,20 @@
+Copyright (c) 2026 Sikander Ali
+
+All rights reserved.
+
+This repository and its contents, including source code, design, layout,
+graphics, text, and other materials, are the property of Sikander Ali
+unless otherwise stated.
+
+You may view this repository for personal learning and evaluation
+purposes. You may not copy, redistribute, publish, sell, modify, or use
+this website or substantial portions of its contents for another project
+without prior written permission from the copyright owner.
+
+Third-party libraries, assets, or materials remain subject to their
+respective owners’ licenses.
+
+THE MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED.
+
+For permission requests, contact: Sikanderalijutt17@gmail.com
